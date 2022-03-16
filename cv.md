@@ -30,7 +30,7 @@ JavaScript/Front-end on the [RS Schools](https://rs.school/js/) (in progress)
 5. *Cardiopulmonary resuscitation*
 ***
 **Soft-skills:**
-1. Stressful
+1. Stress Resistant
 2. Learnability
 3. Communication
 ***
