@@ -15,11 +15,12 @@
 ***
 **Courses:** Responsive Web Design on the [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)
 ![Developer Certification](https://i.ibb.co/3fkdm3n/Developer-Certification.png)
-JavaScript Algorithms and Data Structures on the [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)(in progress)
+
+JavaScript Algorithms and Data Structures on the [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) (in progress)
 
 JavaScript Tutorial on the [learn.javacript.ru](https://learn.javascript.ru/) (in progress)
 
-JavaScript/Front-end on the [RS Schools](https://rs.school/js/)(in progress)
+JavaScript/Front-end on the [RS Schools](https://rs.school/js/) (in progress)
 ***
 **Hard skills:** 
 1. JavaScript Basics
