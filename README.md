@@ -1,3 +1,4 @@
 # rsschool-cv
-My public repository
-https://doropomidoro.github.io/rsschool-cv/cv
+My public repository RS school 
+
+https://doropomidoro.github.io/rsschool-cv/cv 
