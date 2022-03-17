@@ -41,6 +41,6 @@ JavaScript/Front-end on the [RS Schools](https://rs.school/js/) (in progress)
 
 3. Latin *(by default)*.
 ***
-A few words to read before you see my photo!
+A few words to read before you look at my photo!
 
 ![my photo](https://i.ibb.co/F4g02Zf/i-m-a-cardiosurgeon.jpg" )
